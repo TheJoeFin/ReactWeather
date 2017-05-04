@@ -7,10 +7,11 @@ import "bootswatch/journal/bootstrap.css";
 import { Navbar, NavItem, Nav, Grid, Row, Col} from "react-bootstrap";
 
 const PLACES = [
-  {name: "Palo Alto", zip: "94303"},
-  {name: "San Jose", zip: "94088"},
-  {name: "Santa Cruz", zip: "95062"},
-  {name: "Honolulu", zip: "96803"}
+  {name: "Milwaukee", zip: "53202"},
+  {name: "Athens, OH", zip: "45701"},
+  {name: "Cincinnati ", zip: "45201"},
+  {name: "Denver", zip: "80123"},
+  {name: "San Fransisco", zip: "94101"}
 ];
 
 class WeatherDisplay extends Component{
