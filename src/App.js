@@ -7,7 +7,7 @@ import "bootswatch/journal/bootstrap.css";
 import { Navbar, NavItem, Nav, Grid, Row, Col} from "react-bootstrap";
 
 const PLACES = [
-  {name: "Milwaukee", zip: "53202"},
+  {name: "Milwaukee", zip: "53203"},
   {name: "Athens, OH", zip: "45701"},
   {name: "Cincinnati ", zip: "45202"},
   {name: "Denver", zip: "80123"},
